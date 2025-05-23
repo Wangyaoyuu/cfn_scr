@@ -104,3 +104,15 @@ Note：
 测试数据集的金颗粒位置是用reconstruction.mrc的density密度大小人为挑选出来的。
 
 (金颗粒：/hdd_data/wangyy_data/shrec/output/output.submit/predict.avoid)
+
+## Cite
+`
+@inproceedings{wang2024central,
+  title={Central Feature Network Enables Accurate Detection of Both Small and Large Particles in Cryo-Electron Tomography},
+  author={Wang, Yaoyu and Wan, Xiaohua and Chen, Cheng and Zhang, Fa and Cui, Xuefeng},
+  booktitle={International Symposium on Bioinformatics Research and Applications},
+  pages={212--223},
+  year={2024},
+  organization={Springer}
+}
+`
