@@ -115,4 +115,17 @@ Note：
   year={2024},
   organization={Springer}
 }
+
+@Article{JCST-2409-14816,
+title = {Central Feature Network Enables Accurate Detection of Both Small and Large Particles in Cryo-Electron Tomography},
+journal = {Journal of Computer Science and Technology},
+volume = {},
+number = {},
+pages = {},
+year = {2025},
+issn = {1000-9000(Print) /1860-4749(Online)},
+doi = {10.1007/s11390-025-4816-2},	
+url = {https://jcst.ict.ac.cn/en/article/doi/10.1007/s11390-025-4816-2},
+author = {Yao-yu Wang and Xiao-hua Wan and Cheng Chen and Fa Zhang and Xue-feng Cui}
+}
 ```
