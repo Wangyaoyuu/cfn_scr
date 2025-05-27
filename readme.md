@@ -106,7 +106,7 @@ Note：
 (金颗粒：/hdd_data/wangyy_data/shrec/output/output.submit/predict.avoid)
 
 ## Cite
-`
+```
 @inproceedings{wang2024central,
   title={Central Feature Network Enables Accurate Detection of Both Small and Large Particles in Cryo-Electron Tomography},
   author={Wang, Yaoyu and Wan, Xiaohua and Chen, Cheng and Zhang, Fa and Cui, Xuefeng},
@@ -115,4 +115,4 @@ Note：
   year={2024},
   organization={Springer}
 }
-`
+```
